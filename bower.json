@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap_dropdowns_enhancement",
+  "version": "2.3.2",
+  "homepage": "https://github.com/dataworkstr/bootstrap_dropdowns_enhancement",
+  "authors": [
+    "oytunyuksel <oytun.yuksel@yellow.com.tr>"
+  ],
+  "main": "dist/js/dropdowns-enhancement.js",
+  "keywords": [
+    "bootstrap",
+    "dropdowns",
+    "enhancement"
+  ],
+  "license": "MIT"
+}
